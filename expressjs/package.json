@@ -9,7 +9,7 @@
   "author": "Tony",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "superheroes": "^3.0.0"
   }
 }
